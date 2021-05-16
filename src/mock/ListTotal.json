@@ -1,0 +1,326 @@
+[
+  {
+    "key":1,
+    "title":"Смартфон ZTE Blade 20 Smart 128GB Black",
+    "rate":2.5,
+    "reviews":8,
+    "image":{
+      "width":160,
+      "height":230,
+      "preview":false,
+      "src":"https://static.beeline.ru/shop/media/goods/196x302/63eb703f-1b44-4474-9d52-af635518645a.png"
+    },
+    "memory":"128 Гб",
+    "camera":"16+8+2 Мпикс",
+    "screen":"6.49 дюйм",
+    "price":"15 390",
+    "promo": {
+      "isActive": false,
+      "isDisabled": false,
+      "label": "Скидка 9 000 рублей по промокоду"
+    },
+    "color": {
+      "isActive": false,
+      "isDisabled": false,
+      "label": "Черный",
+      "color": "black"
+    }
+  },
+  {
+    "key":2,
+    "title":"Смартфон Samsung Galaxy A31 128GB White",
+    "rate":3,
+    "reviews":4,
+    "image":{
+      "width":160,
+      "height":230,
+      "preview":false,
+      "src":"https://static.beeline.ru/shop/media/goods/196x302/ecc76488-ec91-4acf-81f4-7822d6d4a75d.png"
+    },
+    "memory":"128 Гб",
+    "camera":"48+8+5+2 Мпикс",
+    "screen":"6.4 дюйм",
+    "price":"17 490",
+    "promo": {
+      "isActive": false,
+      "isDisabled": false,
+      "label": "Скидка 10 000 рублей по промокоду"
+    },
+    "color": {
+      "isActive": false,
+      "isDisabled": false,
+      "label": "Коралловый",
+      "color": "Coral"
+    }
+  },
+  {
+    "key":3,
+    "title":"Смартфон Huawei Y6p 64GB Green",
+    "rate":2,
+    "reviews":90,
+    "image":{
+      "width":160,
+      "height":230,
+      "preview":false,
+      "src":"https://static.beeline.ru/shop/media/goods/196x302/9ac98e85-22fe-43d7-a9df-6b9a0c75b18e.png"
+    },
+    "memory":"64 Гб",
+    "camera":"13+5+2 Мпикс",
+    "screen":"6.3 дюйм",
+    "price":"9 990",
+    "promo": {
+      "isActive": false,
+      "isDisabled": false,
+      "label": "Скидка 7 000 рублей по промокоду"
+    },
+    "color": {
+      "isActive": false,
+      "isDisabled": false,
+      "label": "Мятный",
+      "color": "mediumaquamarine"
+    }
+  },
+  {
+    "key":4,
+    "title":"Смартфон Honor 20S 128GB Peacock Blue",
+    "rate":5,
+    "reviews":18,
+    "image":{
+      "width":160,
+      "height":230,
+      "preview":false,
+      "src":"https://static.beeline.ru/shop/media/goods/196x302/a10b5e26-c18f-475b-92ca-e0680ee334e4.png"
+    },
+    "memory":"128 Гб",
+    "camera":"48+8+2 Мпикс",
+    "screen":"6.15 дюйм",
+    "price":"16 990",
+    "promo": {
+      "isActive": false,
+      "isDisabled": false,
+      "label": "Беспроводные наушники в подарок"
+    },
+    "color": {
+      "isActive": false,
+      "isDisabled": false,
+      "label": "Белый",
+      "color": "White"
+    }
+  },
+  {
+    "key":5,
+    "title":"Смартфон Honor 20 Lite 128GB Pear White",
+    "rate":4.5,
+    "reviews":76,
+    "image":{
+      "width":160,
+      "height":230,
+      "preview":false,
+      "src":"https://static.beeline.ru/shop/media/goods/196x302/250cc82c-0d75-4c25-a434-977154fde166.png"
+    },
+    "memory":"128 Гб",
+    "camera":"48+8+2 Мпикс",
+    "screen":"6.15 дюйм",
+    "price":"14 990",
+    "promo": {
+      "isActive": false,
+      "isDisabled": false,
+      "label": "Скидка 1 000 рублей по промокоду"
+    },
+    "color": {
+      "isActive": false,
+      "isDisabled": false,
+      "label": "Серый",
+      "color": "Gray"
+    }
+  },
+  {
+    "key":6,
+    "title":"Смартфон Apple iPhone SE 128GB Белый",
+    "rate":1,
+    "reviews":1,
+    "image":{
+      "width":160,
+      "height":230,
+      "preview":false,
+      "src":"https://static.beeline.ru/shop/media/goods/196x302/35bdec69-7a82-4269-94ab-0473a796fa87.png"
+    },
+    "memory":"128 Гб",
+    "camera":"12 Мпикс",
+    "screen":"4.7 дюйм",
+    "price":"43 890",
+    "promo": {
+      "isActive": false,
+      "isDisabled": false,
+      "label": "Скидка 10% при покупке с аксессуарами"
+    },
+    "color": {
+      "isActive": false,
+      "isDisabled": false,
+      "label": "Зеленый",
+      "color": "Green"
+    }
+  },
+  {
+    "key":7,
+    "title":"Смартфон Honor 20S 128GB Peacock Blue",
+    "rate":4.5,
+    "reviews":18,
+    "image":{
+      "width":160,
+      "height":230,
+      "preview":false,
+      "src":"https://static.beeline.ru/shop/media/goods/196x302/a10b5e26-c18f-475b-92ca-e0680ee334e4.png"
+    },
+    "memory":"128 Гб",
+    "camera":"48+8+2 Мпикс",
+    "screen":"6.15 дюйм",
+    "price":"16 990",
+    "promo": {
+      "isActive": false,
+      "isDisabled": false,
+      "label": "Скидка 2 000 рублей по промокоду 2000AP"
+    },
+    "color": {
+      "isActive": false,
+      "isDisabled": false,
+      "label": "Золотой",
+      "color": "Golden"
+    }
+  },
+  {
+    "key":8,
+    "title":"Смартфон Samsung Galaxy A21s 64GB Black",
+    "rate":0,
+    "reviews":0,
+    "image":{
+      "width":160,
+      "height":230,
+      "preview":false,
+      "src":"https://static.beeline.ru/shop/media/goods/196x302/63eb703f-1b44-4474-9d52-af635518645a.png"
+    },
+    "memory":"64 Гб",
+    "camera":"48+8+2+2 Мпикс",
+    "screen":"6.50 дюйм",
+    "price":"15 390",
+    "promo": {
+      "isActive": false,
+      "isDisabled": false,
+      "label": "Скидка 1 200 рублей по промокоду"
+    },
+    "color": {
+      "isActive": false,
+      "isDisabled": false,
+      "label": "Фиолетовый",
+      "color": "Violet"
+    }
+  },
+  {
+    "key":9,
+    "title":"Смартфон Huawei P Smart 2021 128GB Crush Green",
+    "rate":3,
+    "reviews":0,
+    "image":{
+      "width":160,
+      "height":230,
+      "preview":false,
+      "src":"https://static.beeline.ru/shop/media/goods/196x302/525a06e8-dbd5-4381-8050-77900d9f609e.png"
+    },
+    "memory":"128 Гб",
+    "camera":"48+8+2+2 Мпикс",
+    "screen":"6.15 дюйм",
+    "price":"14 990",
+    "promo": {
+      "isActive": false,
+      "isDisabled": false,
+      "label": "Скидка 2 200 рублей по промокоду"
+    },
+    "color": {
+      "isActive": false,
+      "isDisabled": false,
+      "label": "Синий",
+      "color": "Blue"
+    }
+  },
+  {
+    "key":10,
+    "title":"Смартфон Honor 20 Lite 128GB Pear White",
+    "rate":4.5,
+    "reviews":76,
+    "image":{
+      "width":160,
+      "height":230,
+      "preview":false,
+      "src":"https://static.beeline.ru/shop/media/goods/196x302/250cc82c-0d75-4c25-a434-977154fde166.png"
+    },
+    "memory":"128 Гб",
+    "camera":"48+8+2 Мпикс",
+    "screen":"6.15 дюйм",
+    "price":"14 990",
+    "promo": {
+      "isActive": false,
+      "isDisabled": false,
+      "label": "Скидка 3 000 рублей по промокоду 3000AP"
+    },
+    "color": {
+      "isActive": false,
+      "isDisabled": false,
+      "label": "Красный",
+      "color": "Red"
+    }
+  },
+  {
+    "key":11,
+    "title":"Смартфон Nokia 5.4 128GB 4 RAM Purple",
+    "rate":4,
+    "reviews":4,
+    "image":{
+      "width":160,
+      "height":230,
+      "preview":false,
+      "src":"https://static.beeline.ru/shop/media/goods/196x302/1081bd14-c4c8-4772-9383-5fbc23e559e2.png"
+    },
+    "memory":"128 Гб",
+    "camera":"48+5+2+2 Мпикс",
+    "screen":"6.39 дюйм",
+    "price":"13 990",
+    "promo": {
+      "isActive": false,
+      "isDisabled": false,
+      "label": "Скидка 10 000 рублей по промокоду"
+    },
+    "color": {
+      "isActive": false,
+      "isDisabled": false,
+      "label": "Желтый",
+      "color": "Yellow"
+    }
+  },
+  {
+    "key":12,
+    "title":"Смартфон ZTE Blade 20 Smart 128GB Black",
+    "rate":5,
+    "reviews":1,
+    "image":{
+      "width":160,
+      "height":230,
+      "preview":false,
+      "src":"https://static.beeline.ru/shop/media/goods/196x302/ef634d52-4eeb-428d-9942-9020d4d1c235.png"
+    },
+    "memory":"128 Гб",
+    "camera":"16+8+2 Мпикс",
+    "screen":"6.49 дюйм",
+    "price":"13 490",
+    "promo": {
+      "isActive": false,
+      "isDisabled": false,
+      "label": "Беспроводные наушники в подарок"
+    },
+    "color": {
+      "isActive": false,
+      "isDisabled": false,
+      "label": "Синий",
+      "color": "Blue"
+    }
+  }
+]
